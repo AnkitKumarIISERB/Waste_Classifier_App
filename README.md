@@ -2,7 +2,7 @@
 
 An AI-powered image classification web app that identifies various types of waste (e.g., plastic, metal, paper, etc.) using a MobileNetV2 model and provides actionable disposal, recycling, and environmental impact tips.
 
-🌐 **Live Demo**: [Click to Open the App on Hugging Face Spaces](https://huggingface.co/spaces/AnkitKumarIISERB/Waste_Classifier_App)
+🌐 **Live Demo**: [Click to Open the App on Hugging Face Spaces](https://huggingface.co/spaces/ankitkumariiserb/waste-classifier)
 
 ---
 
