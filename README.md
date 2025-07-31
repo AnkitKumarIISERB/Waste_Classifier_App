@@ -61,12 +61,12 @@ This project leverages transfer learning on **MobileNetV2** to classify waste ma
 
 Waste_Classifier_App/
 │
-├── app.py # Gradio UI and prediction logic
+├── app.py 
 ├── mobilenetv2_waste_classifier_final.h5 
-├── requirements.txt # Python dependencies
-├── runtime.txt # Python version spec
-├── README.md # This file
-├── LICENSE # MIT license
+├── requirements.txt 
+├── runtime.txt 
+├── README.md 
+├── LICENSE 
 ├── model_training.ipynb 
 └── .gitignore / .gitattributes
 
