@@ -48,6 +48,12 @@ This project leverages transfer learning on **MobileNetV2** to classify waste ma
 
 ---
 
+## Demo here!!!!
+
+![App Demo](demo.png)
+
+---
+
 ## 📚 Learning Outcomes
 
 - Built an end-to-end machine learning web app from scratch
