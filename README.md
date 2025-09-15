@@ -50,7 +50,7 @@ This project leverages transfer learning on **MobileNetV2** to classify waste ma
 
 ## Demo here!!!!
 
-![App Demo](demo.png)
+![App Demo](demo.jfif)
 
 ---
 
